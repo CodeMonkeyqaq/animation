@@ -15,6 +15,7 @@
 		90E7F60B20B8FAEE00BE8DFF /* PositionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F60A20B8FAEE00BE8DFF /* PositionViewController.swift */; };
 		90E7F60D20B903BE00BE8DFF /* OpacityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F60C20B903BE00BE8DFF /* OpacityViewController.swift */; };
 		90E7F60F20B9067E00BE8DFF /* ScaleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F60E20B9067E00BE8DFF /* ScaleViewController.swift */; };
+		90E7F61120B90A2100BE8DFF /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F61020B90A2100BE8DFF /* ColorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		90E7F60A20B8FAEE00BE8DFF /* PositionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionViewController.swift; sourceTree = "<group>"; };
 		90E7F60C20B903BE00BE8DFF /* OpacityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpacityViewController.swift; sourceTree = "<group>"; };
 		90E7F60E20B9067E00BE8DFF /* ScaleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleViewController.swift; sourceTree = "<group>"; };
+		90E7F61020B90A2100BE8DFF /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				90E7F60A20B8FAEE00BE8DFF /* PositionViewController.swift */,
 				90E7F60C20B903BE00BE8DFF /* OpacityViewController.swift */,
 				90E7F60E20B9067E00BE8DFF /* ScaleViewController.swift */,
+				90E7F61020B90A2100BE8DFF /* ColorViewController.swift */,
 			);
 			path = animation;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				90E7F60F20B9067E00BE8DFF /* ScaleViewController.swift in Sources */,
 				90E7F5FB20B8F65400BE8DFF /* ViewController.swift in Sources */,
 				90E7F60D20B903BE00BE8DFF /* OpacityViewController.swift in Sources */,
+				90E7F61120B90A2100BE8DFF /* ColorViewController.swift in Sources */,
 				90E7F5F920B8F65400BE8DFF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
