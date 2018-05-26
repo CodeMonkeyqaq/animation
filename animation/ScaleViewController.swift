@@ -10,6 +10,8 @@ import UIKit
 
 class ScaleViewController: UIViewController {
 
+    @IBOutlet weak var redSquare: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -22,8 +24,10 @@ class ScaleViewController: UIViewController {
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        super .viewDidAppear(animated)
-        
+        super.viewDidAppear(animated)
+        UIView.animate(withDuration: 1, animations: {
+            self.redSquare.transform = CGAffineTransform(scaleX: 2.0, y: 2.0)
+        })
     }
 
     /*
