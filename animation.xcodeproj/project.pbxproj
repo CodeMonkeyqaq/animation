@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		90E3E8EB20BC35B100FBA3FE /* SpringViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E3E8EA20BC35B100FBA3FE /* SpringViewController.swift */; };
 		90E7F5F920B8F65400BE8DFF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F5F820B8F65400BE8DFF /* AppDelegate.swift */; };
 		90E7F5FB20B8F65400BE8DFF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F5FA20B8F65400BE8DFF /* ViewController.swift */; };
 		90E7F5FE20B8F65400BE8DFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90E7F5FC20B8F65400BE8DFF /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		90E3E8EA20BC35B100FBA3FE /* SpringViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpringViewController.swift; sourceTree = "<group>"; };
 		90E7F5F520B8F65400BE8DFF /* animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90E7F5F820B8F65400BE8DFF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90E7F5FA20B8F65400BE8DFF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				90E7F61420B93C5F00BE8DFF /* RotationViewController.swift */,
 				90E7F61E20B94D1000BE8DFF /* RepeatViewController.swift */,
 				90E7F62020B9584C00BE8DFF /* EasingViewController.swift */,
+				90E3E8EA20BC35B100FBA3FE /* SpringViewController.swift */,
 			);
 			path = animation;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				90E7F60B20B8FAEE00BE8DFF /* PositionViewController.swift in Sources */,
 				90E7F60F20B9067E00BE8DFF /* ScaleViewController.swift in Sources */,
 				90E7F62120B9584C00BE8DFF /* EasingViewController.swift in Sources */,
+				90E3E8EB20BC35B100FBA3FE /* SpringViewController.swift in Sources */,
 				90E7F5FB20B8F65400BE8DFF /* ViewController.swift in Sources */,
 				90E7F60D20B903BE00BE8DFF /* OpacityViewController.swift in Sources */,
 				90E7F61520B93C5F00BE8DFF /* RotationViewController.swift in Sources */,
