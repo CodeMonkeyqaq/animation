@@ -18,6 +18,7 @@
 		90E7F61120B90A2100BE8DFF /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F61020B90A2100BE8DFF /* ColorViewController.swift */; };
 		90E7F61520B93C5F00BE8DFF /* RotationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F61420B93C5F00BE8DFF /* RotationViewController.swift */; };
 		90E7F61F20B94D1000BE8DFF /* RepeatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F61E20B94D1000BE8DFF /* RepeatViewController.swift */; };
+		90E7F62120B9584C00BE8DFF /* EasingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7F62020B9584C00BE8DFF /* EasingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		90E7F61920B93DBE00BE8DFF /* images-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images-3.png"; sourceTree = "<group>"; };
 		90E7F61A20B93DBE00BE8DFF /* Contents.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
 		90E7F61E20B94D1000BE8DFF /* RepeatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatViewController.swift; sourceTree = "<group>"; };
+		90E7F62020B9584C00BE8DFF /* EasingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				90E7F61020B90A2100BE8DFF /* ColorViewController.swift */,
 				90E7F61420B93C5F00BE8DFF /* RotationViewController.swift */,
 				90E7F61E20B94D1000BE8DFF /* RepeatViewController.swift */,
+				90E7F62020B9584C00BE8DFF /* EasingViewController.swift */,
 			);
 			path = animation;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 			files = (
 				90E7F60B20B8FAEE00BE8DFF /* PositionViewController.swift in Sources */,
 				90E7F60F20B9067E00BE8DFF /* ScaleViewController.swift in Sources */,
+				90E7F62120B9584C00BE8DFF /* EasingViewController.swift in Sources */,
 				90E7F5FB20B8F65400BE8DFF /* ViewController.swift in Sources */,
 				90E7F60D20B903BE00BE8DFF /* OpacityViewController.swift in Sources */,
 				90E7F61520B93C5F00BE8DFF /* RotationViewController.swift in Sources */,
